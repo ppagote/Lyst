@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lyst:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lyst_jar</output-path>
+    <root id="archive" name="Lyst.jar">
+      <element id="module-output" name="Lyst" />
+    </root>
+  </artifact>
+</component>
